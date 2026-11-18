@@ -395,3 +395,4 @@ All runtime options are managed in `config.json`. Key settings:
 | **Agent tool execution denied** | Security restrictions | Pass `--no-tools` in `client.py` or disable tools in `config.json` (`"enable_tools_default": false`). |
 # browser-chat-terminal-clien
 # browser-chat-terminal-clien
+# browser-chat-terminal-clien
